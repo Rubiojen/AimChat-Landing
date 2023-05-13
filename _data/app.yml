@@ -1,21 +1,24 @@
 name: AimChat
-description: A super tagline for the mobile app
-full_description: 'A more complete description of the mobile app<br>
-<br>With a lot of features:
-<br>- Feature 1
-<br>- Feature 2
-<br>- Feature 3'
+description: Your Personal AI Assistant
+full_description: 'AimChat is a unique and innovative mobile application that leverages the power<br>
+                   of Artificial Intelligence to assist you in managing your life goals. Designed<br>
+                   with a user-friendly interface, this app serves as your personal AI-powered chatbot,<br>
+                   guiding you through each step of your journey towards achieving your objectives.<br>
+<br>Key Features::
+<br>- AI-Assisted Planning: Generate actionable tasks, milestones, and areas of focus based on your main goal.
+ The AI guides you through this process, offering suggestions and refining your plan.
+<br>- Progress Tracking: Keep tabs on your progress and receive reminders and motivational boosts to keep you on track.
+<br>- Interactive Chat: Engage in intuitive and context-aware conversations with the AI assistant, which provides guidance, answers queries, and offers insights specific to your goals.'
 android: https://telegra.ph/Replace-this-link-07-23
 iOS: https://telegra.ph/Replace-this-link-07-23
-web: https://telegra.ph/Replace-this-link-07-23
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
 producthunt: https://telegra.ph/Replace-this-link-07-23
-companies:
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: androidpolice.png
-  - url: https://telegra.ph/Replace-this-link-07-23
-    image: producthunt.png
+# companies:
+#   - url: https://telegra.ph/Replace-this-link-07-23
+#     image: androidpolice.png
+#   - url: https://telegra.ph/Replace-this-link-07-23
+#     image: producthunt.png
