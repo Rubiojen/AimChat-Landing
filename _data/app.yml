@@ -9,14 +9,15 @@ full_description: 'AimChat is a unique and innovative mobile application that le
  The AI guides you through this process, offering suggestions and refining your plan.
 <br>- Progress Tracking: Keep tabs on your progress and receive reminders and motivational boosts to keep you on track.
 <br>- Interactive Chat: Engage in intuitive and context-aware conversations with the AI assistant, which provides guidance, answers queries, and offers insights specific to your goals.'
-android: https://telegra.ph/Replace-this-link-07-23
-iOS: https://telegra.ph/Replace-this-link-07-23
+android: https://play.google.com/store/apps/details?id=com.chatgtd
+iOS: https://testflight.apple.com/join/nGUjgV0R
+web: false
 screenshots:
   - 1.png
   - 2.png
   - 3.png
   - 4.png
-producthunt: https://telegra.ph/Replace-this-link-07-23
+# producthunt: https://telegra.ph/Replace-this-link-07-23
 # companies:
 #   - url: https://telegra.ph/Replace-this-link-07-23
 #     image: androidpolice.png
