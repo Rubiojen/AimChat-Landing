@@ -1,14 +1,16 @@
 name: AimChat
 description: Your Personal AI Assistant
-full_description: 'AimChat is a unique and innovative mobile application that leverages the power<br>
-                   of Artificial Intelligence to assist you in managing your life goals. Designed<br>
-                   with a user-friendly interface, this app serves as your personal AI-powered chatbot,<br>
-                   guiding you through each step of your journey towards achieving your objectives.<br>
-<br>Key Features::
-<br>- AI-Assisted Planning: Generate actionable tasks, milestones, and areas of focus based on your main goal.
- The AI guides you through this process, offering suggestions and refining your plan.
-<br>- Progress Tracking: Keep tabs on your progress and receive reminders and motivational boosts to keep you on track.
-<br>- Interactive Chat: Engage in intuitive and context-aware conversations with the AI assistant, which provides guidance, answers queries, and offers insights specific to your goals.'
+full_description:
+  "AimChat revolutionizes your goal-setting journey with its unique features.<br>
+  Experience the power of our intelligent chat system that allows you to split conversations,<br>
+  focusing on different aspects of your goals. Dive deeper into our Goals tab where each goal<br>
+  is meticulously broken down into manageable tasks, milestones, and areas with the help of AI.<br>
+  AimChat is here to turn your ambitious plans into achievable actions.<br>
+  <br>Key Features::
+  <br>- Dynamic Chat System: Have meaningful conversations with our AI that you can split at any point to focus on different topics.
+  <br>- Goal Breakdown: Every goal is carefully analyzed and broken down into manageable tasks, milestones, and areas using our AI system.
+  <br>- Chat Assistance for Each Step: Get personalized AI assistance at every step of your journey.
+  <br>- Free to Use: Get started on achieving your goals without any cost."
 android: https://play.google.com/store/apps/details?id=com.chatgtd
 iOS: https://testflight.apple.com/join/nGUjgV0R
 web: false
